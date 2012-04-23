@@ -31,5 +31,6 @@ $CCL_HOST = ( substr_count($_SERVER['HTTP_HOST'],".")==2 )? substr($_SERVER['HTT
 
 echo $CCL_HOST;
 
+echo "agregado cambio desde copia local"
 
 ?>
